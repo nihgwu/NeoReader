@@ -1,15 +1,20 @@
 # NeoReader
 
 ## Update
+[2016-05-23] Android 版已可供下载 [NeoReader for Android](neoreader.apk)，或者扫描以下二维码下载（第一个 Android 版本，目前还存在一些问题)
 
-[2016-05-16] iOS 已可供下载：https://appsto.re/cn/hA0pcb.i ，或者扫描以下二维码下载（因为审核等了一段时间，在这段时间对 UI 做了一些调整，所以第一次打开 app 会受到热更新推送，待自动重启之后即更新完成）
+[2016-05-16] iOS 版已可供下载：https://appsto.re/cn/hA0pcb.i ，或者扫描以下二维码下载（因为审核等了一段时间，在这段时间对 UI 做了一些调整，所以第一次打开 app 会受到热更新推送，待自动重启之后即更新完成）
 
-![qrcode.png](qrcode.png)
+iOS 版：
+![iOS version](qrcode.png)
+
+Android 版：
+![Android version](qrcode-android.png)
 
 ## Planning
 
-- [ ] Android 版本适配  
-- [ ] 再添加几个 source  
+- [x] Android 版本适配  
+- [x] 再添加几个 source  
 - [ ] 部分 source 集成用户系统（即登录功能，主要是 V2EX） 
 
 ## About
