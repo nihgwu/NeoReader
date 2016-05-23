@@ -5,10 +5,10 @@
 
 [2016-05-16] iOS 版已可供下载：https://appsto.re/cn/hA0pcb.i ，或者扫描以下二维码下载（因为审核等了一段时间，在这段时间对 UI 做了一些调整，所以第一次打开 app 会受到热更新推送，待自动重启之后即更新完成）
 
-iOS 版：
+iOS 版：   
 ![iOS version](qrcode.png)
 
-Android 版：
+Android 版：   
 ![Android version](qrcode-android.png)
 
 ## Planning
