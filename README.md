@@ -1,7 +1,11 @@
 # NeoReader
 
 ## Update
-[2016-05-23] Android 版已可供下载 http://fir.im/neoreader ，或者扫描以下二维码下载（第一个 Android 版本，目前还存在一些问题)
+[2016-05-24] Android 版已可供下载 http://fir.im/neoreader ，或者扫描以下二维码下载
+
+已知问题：
+* section header不能固顶，影响了体验
+* 不支持gif
 
 [2016-05-16] iOS 版已可供下载：https://appsto.re/cn/hA0pcb.i ，或者扫描以下二维码下载（因为审核等了一段时间，在这段时间对 UI 做了一些调整，所以第一次打开 app 会受到热更新推送，待自动重启之后即更新完成）
 
