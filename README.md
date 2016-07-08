@@ -6,8 +6,8 @@ iOS 版已经更新了好几个版本，目前基本稳定（通过热更新的�
 
 Android 版因为 React Native 的支持问题，相比 iOS 版有两个主要的区别：
 * header 的 TabBar 自动跟随不够流畅（iOS用的原生方法处理）
-* --section header不能固定（这个比较影响体验，可能会采用第三方原生组件解决）--
-* --暂时不支持 GIF--
+* <del>section header不能固定（这个比较影响体验，可能会采用第三方原生组件解决）</del>
+* <del>暂时不支持 GIF</del>
 
 **之前小范围放出的 Android 版本启动极慢，热更新不生效，也请重新下载安装**
 
