@@ -15,7 +15,7 @@ Android 版因为 React Native 的支持问题，相比 iOS 版有两个主要�
 
 ![iOS 版下载](https://raw.githubusercontent.com/nihgwu/NeoReader/master/qrcode.png)
 
-[Android 版下载](http://fir.im/neoreader)
+[Android 版下载](http://android.myapp.com/myapp/detail.htm?apkName=com.liteneo.reader)
 
 ![Android 版下载](https://raw.githubusercontent.com/nihgwu/NeoReader/master/qrcode-android.png)
 
